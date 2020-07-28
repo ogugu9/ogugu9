@@ -1,16 +1,16 @@
 
 I'm a Web Developer working @Yahoo! JAPAN.  
 
-## Recent Interest
-- Domain Driven Design
-- GraphQL between front and BFF
+## 最近の興味: Recent Interest
+- ドメイン駆動設計： Domain Driven Design
+- GraphQLを用いたフロント-BFFの通信: GraphQL between front and BFF
 - Fragment Collocation
-- Microservices with gRPC and Service Mesh
-- Component-Oriented Frontend FW with Server-Side Rendering
-- Functional Programing
-- Causal Inference by Machine Learning
+- gRPCとサービスメッシュを用いたマイクロサービス: Microservices with gRPC and Service Mesh
+- コンポーネント指向なフロントエンドFW: Component-Oriented Frontend Framework
+- 関数型プログラミング: Functional Programing
+- 機械学習を用いた因果推論: Causal Inference by Machine Learning
 
-## Skillset
+## スキル: Skillset
 
 - Language: Java, Node.js, somtimes python and golang
 - Backend: Spring, Nest.js, express
