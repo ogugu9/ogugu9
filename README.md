@@ -19,4 +19,4 @@ I'm a Web Developer working @Yahoo! JAPAN.
 
 ## Contact
 
-- Twitter: [@ogugugugu](https://twitter.com/ogugugugu)
+- Twitter: [@ogugudayo](https://twitter.com/ogugudayo)
